@@ -1,0 +1,10 @@
+framework module ReactNativeCameraKit {
+  umbrella header "ReactNativeCameraKit.h"
+
+  export *
+  module * { export * }
+}
+
+module ReactNativeCameraKit.__Swift {
+    exclude header "ReactNativeCameraKit-Swift.h"
+}

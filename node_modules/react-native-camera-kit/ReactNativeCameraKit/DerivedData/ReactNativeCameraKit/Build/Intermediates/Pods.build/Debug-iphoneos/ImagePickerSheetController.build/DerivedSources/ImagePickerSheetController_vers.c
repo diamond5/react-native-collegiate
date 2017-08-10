@@ -1,0 +1,1 @@
+ const unsigned char ImagePickerSheetControllerVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:ImagePickerSheetController  PROJECT:Pods-1" "\n"; const double ImagePickerSheetControllerVersionNumber __attribute__ ((used)) = (double)1.;

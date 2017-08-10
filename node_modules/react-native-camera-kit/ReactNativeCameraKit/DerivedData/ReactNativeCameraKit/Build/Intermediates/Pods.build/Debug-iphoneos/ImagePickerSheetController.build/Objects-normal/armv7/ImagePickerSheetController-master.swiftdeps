@@ -1,0 +1,16 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "38cb36c87db7fc3a0bdb80b6fb475e54"
+build_time: [514570783, 40483000]
+inputs:
+  "/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/Pods/ImagePickerSheetController/ImagePickerSheetController/ImagePickerSheetController/AnimationController.swift": [514570649, 0]
+  "/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/Pods/ImagePickerSheetController/ImagePickerSheetController/ImagePickerSheetController/ImagePickerAction.swift": [514570649, 0]
+  "/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/Pods/ImagePickerSheetController/ImagePickerSheetController/ImagePickerSheetController/ImagePickerSheetController.swift": [514570649, 0]
+  "/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/Pods/ImagePickerSheetController/ImagePickerSheetController/ImagePickerSheetController/Sheet/Preview/PreviewCollectionView.swift": [514570649, 0]
+  "/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/Pods/ImagePickerSheetController/ImagePickerSheetController/ImagePickerSheetController/Sheet/Preview/PreviewCollectionViewCell.swift": [514570649, 0]
+  "/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/Pods/ImagePickerSheetController/ImagePickerSheetController/ImagePickerSheetController/Sheet/Preview/PreviewCollectionViewLayout.swift": [514570649, 0]
+  "/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/Pods/ImagePickerSheetController/ImagePickerSheetController/ImagePickerSheetController/Sheet/Preview/PreviewSupplementaryView.swift": [514570649, 0]
+  "/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/Pods/ImagePickerSheetController/ImagePickerSheetController/ImagePickerSheetController/Sheet/SheetActionCollectionViewCell.swift": [514570649, 0]
+  "/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/Pods/ImagePickerSheetController/ImagePickerSheetController/ImagePickerSheetController/Sheet/SheetCollectionViewCell.swift": [514570649, 0]
+  "/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/Pods/ImagePickerSheetController/ImagePickerSheetController/ImagePickerSheetController/Sheet/SheetCollectionViewLayout.swift": [514570649, 0]
+  "/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/Pods/ImagePickerSheetController/ImagePickerSheetController/ImagePickerSheetController/Sheet/SheetController.swift": [514570649, 0]
+  "/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/Pods/ImagePickerSheetController/ImagePickerSheetController/ImagePickerSheetController/Sheet/SheetPreviewCollectionViewCell.swift": [514570649, 0]

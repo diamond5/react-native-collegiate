@@ -1,0 +1,427 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AnimationController"
+provides-nominal:
+- "C26ImagePickerSheetController19AnimationController"
+provides-member:
+- ["C26ImagePickerSheetController19AnimationController", ""]
+provides-dynamic-lookup:
+- "transitionDuration"
+- "animateTransition"
+- "imagePickerSheetController"
+- "presenting"
+depends-top-level:
+- "NSObject"
+- !private "StringLiteralType"
+- "AnimationController"
+- !private "UIView"
+- !private "Void"
+- !private "BooleanLiteralType"
+- "UIViewControllerContextTransitioning"
+- "Bool"
+- "NSTimeInterval"
+- "ImagePickerSheetController"
+- "UIViewControllerAnimatedTransitioning"
+depends-member:
+- ["C26ImagePickerSheetController19AnimationController", "Bool"]
+- ["C26ImagePickerSheetController19AnimationController", "ImagePickerSheetController"]
+- ["C26ImagePickerSheetController19AnimationController", "NSTimeInterval"]
+- !private ["C26ImagePickerSheetController19AnimationController", "UIView"]
+- ["C26ImagePickerSheetController19AnimationController", "UIViewControllerContextTransitioning"]
+- !private ["C26ImagePickerSheetController19AnimationController", "Void"]
+- !private ["C26ImagePickerSheetController19AnimationController", "animateDismissal"]
+- !private ["C26ImagePickerSheetController19AnimationController", "animatePresentation"]
+- ["C26ImagePickerSheetController19AnimationController", "animateTransition"]
+- ["C26ImagePickerSheetController19AnimationController", "animationEnded"]
+- ["C26ImagePickerSheetController19AnimationController", "deinit"]
+- ["C26ImagePickerSheetController19AnimationController", "imagePickerSheetController"]
+- ["C26ImagePickerSheetController19AnimationController", "init"]
+- ["C26ImagePickerSheetController19AnimationController", "presenting"]
+- ["C26ImagePickerSheetController19AnimationController", "transitionDuration"]
+- !private ["Ps9AnyObject", "UIView"]
+- !private ["Ps9AnyObject", "addSubview"]
+- !private ["Ps9AnyObject", "alpha"]
+- ["Ps9AnyObject", "animateDismissal"]
+- ["Ps9AnyObject", "animatePresentation"]
+- ["Ps9AnyObject", "animateTransition"]
+- !private ["Ps9AnyObject", "animateWithDuration"]
+- ["Ps9AnyObject", "animationEnded"]
+- !private ["Ps9AnyObject", "backgroundView"]
+- !private ["Ps9AnyObject", "bounds"]
+- !private ["Ps9AnyObject", "frame"]
+- ["Ps9AnyObject", "imagePickerSheetController"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "presenting"]
+- !private ["Ps9AnyObject", "removeFromSuperview"]
+- !private ["Ps9AnyObject", "sheetCollectionView"]
+- ["Ps9AnyObject", "transitionDuration"]
+- !private ["Ps9AnyObject", "view"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps23ArrayLiteralConvertible", "CurveEaseIn"]
+- !private ["Ps23ArrayLiteralConvertible", "CurveEaseOut"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps11BooleanType", "_getBuiltinLogicValue"]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["VSC7CGPoint", "y"]
+- !private ["VSC6CGRect", "maxY"]
+- !private ["VSC6CGRect", "origin"]
+- !private ["Ps11CVarArgType", "UIView"]
+- !private ["Ps11CVarArgType", "addSubview"]
+- !private ["Ps11CVarArgType", "alpha"]
+- ["Ps11CVarArgType", "animateDismissal"]
+- ["Ps11CVarArgType", "animatePresentation"]
+- ["Ps11CVarArgType", "animateTransition"]
+- !private ["Ps11CVarArgType", "animateWithDuration"]
+- ["Ps11CVarArgType", "animationEnded"]
+- !private ["Ps11CVarArgType", "backgroundView"]
+- !private ["Ps11CVarArgType", "bounds"]
+- !private ["Ps11CVarArgType", "frame"]
+- ["Ps11CVarArgType", "imagePickerSheetController"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "presenting"]
+- !private ["Ps11CVarArgType", "removeFromSuperview"]
+- !private ["Ps11CVarArgType", "sheetCollectionView"]
+- ["Ps11CVarArgType", "transitionDuration"]
+- !private ["Ps11CVarArgType", "view"]
+- ["Ps11CVarArgType", ""]
+- !private ["Ps28CustomDebugStringConvertible", "Some"]
+- !private ["Ps28CustomDebugStringConvertible", "UIView"]
+- !private ["Ps28CustomDebugStringConvertible", "addSubview"]
+- !private ["Ps28CustomDebugStringConvertible", "alpha"]
+- ["Ps28CustomDebugStringConvertible", "animateDismissal"]
+- ["Ps28CustomDebugStringConvertible", "animatePresentation"]
+- ["Ps28CustomDebugStringConvertible", "animateTransition"]
+- !private ["Ps28CustomDebugStringConvertible", "animateWithDuration"]
+- ["Ps28CustomDebugStringConvertible", "animationEnded"]
+- !private ["Ps28CustomDebugStringConvertible", "backgroundView"]
+- !private ["Ps28CustomDebugStringConvertible", "bounds"]
+- !private ["Ps28CustomDebugStringConvertible", "frame"]
+- ["Ps28CustomDebugStringConvertible", "imagePickerSheetController"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "presenting"]
+- !private ["Ps28CustomDebugStringConvertible", "removeFromSuperview"]
+- !private ["Ps28CustomDebugStringConvertible", "sheetCollectionView"]
+- ["Ps28CustomDebugStringConvertible", "transitionDuration"]
+- !private ["Ps28CustomDebugStringConvertible", "view"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "UIView"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "addSubview"]
+- !private ["Ps23CustomStringConvertible", "alpha"]
+- ["Ps23CustomStringConvertible", "animateDismissal"]
+- ["Ps23CustomStringConvertible", "animatePresentation"]
+- ["Ps23CustomStringConvertible", "animateTransition"]
+- !private ["Ps23CustomStringConvertible", "animateWithDuration"]
+- ["Ps23CustomStringConvertible", "animationEnded"]
+- !private ["Ps23CustomStringConvertible", "backgroundView"]
+- !private ["Ps23CustomStringConvertible", "bounds"]
+- !private ["Ps23CustomStringConvertible", "frame"]
+- ["Ps23CustomStringConvertible", "imagePickerSheetController"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "presenting"]
+- !private ["Ps23CustomStringConvertible", "removeFromSuperview"]
+- !private ["Ps23CustomStringConvertible", "sheetCollectionView"]
+- ["Ps23CustomStringConvertible", "transitionDuration"]
+- !private ["Ps23CustomStringConvertible", "view"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "CurveEaseIn"]
+- !private ["Ps9Equatable", "CurveEaseOut"]
+- !private ["Ps9Equatable", "UIView"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "addSubview"]
+- !private ["Ps9Equatable", "alpha"]
+- ["Ps9Equatable", "animateDismissal"]
+- ["Ps9Equatable", "animatePresentation"]
+- ["Ps9Equatable", "animateTransition"]
+- !private ["Ps9Equatable", "animateWithDuration"]
+- ["Ps9Equatable", "animationEnded"]
+- !private ["Ps9Equatable", "backgroundView"]
+- !private ["Ps9Equatable", "bounds"]
+- !private ["Ps9Equatable", "frame"]
+- ["Ps9Equatable", "imagePickerSheetController"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "maxY"]
+- !private ["Ps9Equatable", "origin"]
+- ["Ps9Equatable", "presenting"]
+- !private ["Ps9Equatable", "removeFromSuperview"]
+- !private ["Ps9Equatable", "sheetCollectionView"]
+- ["Ps9Equatable", "transitionDuration"]
+- !private ["Ps9Equatable", "view"]
+- !private ["Ps9Equatable", "y"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "UIView"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "addSubview"]
+- !private ["Ps8Hashable", "alpha"]
+- ["Ps8Hashable", "animateDismissal"]
+- ["Ps8Hashable", "animatePresentation"]
+- ["Ps8Hashable", "animateTransition"]
+- !private ["Ps8Hashable", "animateWithDuration"]
+- ["Ps8Hashable", "animationEnded"]
+- !private ["Ps8Hashable", "backgroundView"]
+- !private ["Ps8Hashable", "bounds"]
+- !private ["Ps8Hashable", "frame"]
+- ["Ps8Hashable", "imagePickerSheetController"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "presenting"]
+- !private ["Ps8Hashable", "removeFromSuperview"]
+- !private ["Ps8Hashable", "sheetCollectionView"]
+- ["Ps8Hashable", "transitionDuration"]
+- !private ["Ps8Hashable", "view"]
+- ["Ps8Hashable", ""]
+- !private ["C26ImagePickerSheetController26ImagePickerSheetController", "backgroundView"]
+- !private ["C26ImagePickerSheetController26ImagePickerSheetController", "sheetCollectionView"]
+- !private ["C26ImagePickerSheetController26ImagePickerSheetController", "view"]
+- !private ["PSo8NSCoding", "addSubview"]
+- !private ["PSo8NSCoding", "alpha"]
+- !private ["PSo8NSCoding", "animateWithDuration"]
+- !private ["PSo8NSCoding", "backgroundView"]
+- !private ["PSo8NSCoding", "bounds"]
+- !private ["PSo8NSCoding", "frame"]
+- !private ["PSo8NSCoding", "removeFromSuperview"]
+- !private ["PSo8NSCoding", "sheetCollectionView"]
+- !private ["PSo8NSCoding", "view"]
+- !private ["PSo26NSExtensionRequestHandling", "backgroundView"]
+- !private ["PSo26NSExtensionRequestHandling", "sheetCollectionView"]
+- !private ["PSo26NSExtensionRequestHandling", "view"]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "ImagePickerSheetController"]
+- ["CSo8NSObject", "NSTimeInterval"]
+- !private ["CSo8NSObject", "UIView"]
+- ["CSo8NSObject", "UIViewControllerContextTransitioning"]
+- !private ["CSo8NSObject", "Void"]
+- !private ["CSo8NSObject", "addSubview"]
+- !private ["CSo8NSObject", "alpha"]
+- ["CSo8NSObject", "animateDismissal"]
+- ["CSo8NSObject", "animatePresentation"]
+- ["CSo8NSObject", "animateTransition"]
+- !private ["CSo8NSObject", "animateWithDuration"]
+- ["CSo8NSObject", "animationEnded"]
+- !private ["CSo8NSObject", "backgroundView"]
+- !private ["CSo8NSObject", "bounds"]
+- !private ["CSo8NSObject", "frame"]
+- ["CSo8NSObject", "imagePickerSheetController"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "presenting"]
+- !private ["CSo8NSObject", "removeFromSuperview"]
+- !private ["CSo8NSObject", "sheetCollectionView"]
+- ["CSo8NSObject", "transitionDuration"]
+- !private ["CSo8NSObject", "view"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "UIView"]
+- !private ["PSo16NSObjectProtocol", "addSubview"]
+- !private ["PSo16NSObjectProtocol", "alpha"]
+- ["PSo16NSObjectProtocol", "animateDismissal"]
+- ["PSo16NSObjectProtocol", "animatePresentation"]
+- ["PSo16NSObjectProtocol", "animateTransition"]
+- !private ["PSo16NSObjectProtocol", "animateWithDuration"]
+- ["PSo16NSObjectProtocol", "animationEnded"]
+- !private ["PSo16NSObjectProtocol", "backgroundView"]
+- !private ["PSo16NSObjectProtocol", "bounds"]
+- !private ["PSo16NSObjectProtocol", "completeTransition"]
+- !private ["PSo16NSObjectProtocol", "containerView"]
+- !private ["PSo16NSObjectProtocol", "frame"]
+- ["PSo16NSObjectProtocol", "imagePickerSheetController"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "presenting"]
+- !private ["PSo16NSObjectProtocol", "removeFromSuperview"]
+- !private ["PSo16NSObjectProtocol", "sheetCollectionView"]
+- ["PSo16NSObjectProtocol", "transitionDuration"]
+- !private ["PSo16NSObjectProtocol", "view"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["Ps21NilLiteralConvertible", "Some"]
+- !private ["Ps13OptionSetType", "CurveEaseIn"]
+- !private ["Ps13OptionSetType", "CurveEaseOut"]
+- !private ["Sq", "Some"]
+- !private ["Ps16RawRepresentable", "CurveEaseIn"]
+- !private ["Ps16RawRepresentable", "CurveEaseOut"]
+- !private ["Ps14SetAlgebraType", "CurveEaseIn"]
+- !private ["Ps14SetAlgebraType", "CurveEaseOut"]
+- !private ["Vs12StaticString", "deinit"]
+- !private ["PSo29UIAccessibilityIdentification", "addSubview"]
+- !private ["PSo29UIAccessibilityIdentification", "alpha"]
+- !private ["PSo29UIAccessibilityIdentification", "animateWithDuration"]
+- !private ["PSo29UIAccessibilityIdentification", "bounds"]
+- !private ["PSo29UIAccessibilityIdentification", "frame"]
+- !private ["PSo29UIAccessibilityIdentification", "removeFromSuperview"]
+- !private ["PSo12UIAppearance", "addSubview"]
+- !private ["PSo12UIAppearance", "alpha"]
+- !private ["PSo12UIAppearance", "animateWithDuration"]
+- !private ["PSo12UIAppearance", "bounds"]
+- !private ["PSo12UIAppearance", "frame"]
+- !private ["PSo12UIAppearance", "removeFromSuperview"]
+- !private ["PSo21UIAppearanceContainer", "addSubview"]
+- !private ["PSo21UIAppearanceContainer", "alpha"]
+- !private ["PSo21UIAppearanceContainer", "animateWithDuration"]
+- !private ["PSo21UIAppearanceContainer", "backgroundView"]
+- !private ["PSo21UIAppearanceContainer", "bounds"]
+- !private ["PSo21UIAppearanceContainer", "frame"]
+- !private ["PSo21UIAppearanceContainer", "removeFromSuperview"]
+- !private ["PSo21UIAppearanceContainer", "sheetCollectionView"]
+- !private ["PSo21UIAppearanceContainer", "view"]
+- !private ["CSo16UICollectionView", "frame"]
+- !private ["PSo26UICollectionViewDataSource", "backgroundView"]
+- !private ["PSo26UICollectionViewDataSource", "sheetCollectionView"]
+- !private ["PSo26UICollectionViewDataSource", "view"]
+- !private ["PSo24UICollectionViewDelegate", "backgroundView"]
+- !private ["PSo24UICollectionViewDelegate", "sheetCollectionView"]
+- !private ["PSo24UICollectionViewDelegate", "view"]
+- !private ["PSo34UICollectionViewDelegateFlowLayout", "backgroundView"]
+- !private ["PSo34UICollectionViewDelegateFlowLayout", "sheetCollectionView"]
+- !private ["PSo34UICollectionViewDelegateFlowLayout", "view"]
+- !private ["PSo18UIContentContainer", "backgroundView"]
+- !private ["PSo18UIContentContainer", "sheetCollectionView"]
+- !private ["PSo18UIContentContainer", "view"]
+- !private ["PSo17UICoordinateSpace", "addSubview"]
+- !private ["PSo17UICoordinateSpace", "alpha"]
+- !private ["PSo17UICoordinateSpace", "animateWithDuration"]
+- !private ["PSo17UICoordinateSpace", "bounds"]
+- !private ["PSo17UICoordinateSpace", "frame"]
+- !private ["PSo17UICoordinateSpace", "removeFromSuperview"]
+- !private ["PSo13UIDynamicItem", "addSubview"]
+- !private ["PSo13UIDynamicItem", "alpha"]
+- !private ["PSo13UIDynamicItem", "animateWithDuration"]
+- !private ["PSo13UIDynamicItem", "bounds"]
+- !private ["PSo13UIDynamicItem", "frame"]
+- !private ["PSo13UIDynamicItem", "removeFromSuperview"]
+- !private ["PSo18UIFocusEnvironment", "addSubview"]
+- !private ["PSo18UIFocusEnvironment", "alpha"]
+- !private ["PSo18UIFocusEnvironment", "animateWithDuration"]
+- !private ["PSo18UIFocusEnvironment", "backgroundView"]
+- !private ["PSo18UIFocusEnvironment", "bounds"]
+- !private ["PSo18UIFocusEnvironment", "frame"]
+- !private ["PSo18UIFocusEnvironment", "removeFromSuperview"]
+- !private ["PSo18UIFocusEnvironment", "sheetCollectionView"]
+- !private ["PSo18UIFocusEnvironment", "view"]
+- !private ["CSo11UIResponder", "addSubview"]
+- !private ["CSo11UIResponder", "alpha"]
+- !private ["CSo11UIResponder", "animateWithDuration"]
+- !private ["CSo11UIResponder", "backgroundView"]
+- !private ["CSo11UIResponder", "bounds"]
+- !private ["CSo11UIResponder", "frame"]
+- !private ["CSo11UIResponder", "removeFromSuperview"]
+- !private ["CSo11UIResponder", "sheetCollectionView"]
+- !private ["CSo11UIResponder", "view"]
+- !private ["CSo12UIScrollView", "frame"]
+- !private ["PSo20UIScrollViewDelegate", "backgroundView"]
+- !private ["PSo20UIScrollViewDelegate", "sheetCollectionView"]
+- !private ["PSo20UIScrollViewDelegate", "view"]
+- !private ["PSo16UIStateRestoring", "backgroundView"]
+- !private ["PSo16UIStateRestoring", "sheetCollectionView"]
+- !private ["PSo16UIStateRestoring", "view"]
+- !private ["PSo18UITraitEnvironment", "addSubview"]
+- !private ["PSo18UITraitEnvironment", "alpha"]
+- !private ["PSo18UITraitEnvironment", "animateWithDuration"]
+- !private ["PSo18UITraitEnvironment", "backgroundView"]
+- !private ["PSo18UITraitEnvironment", "bounds"]
+- !private ["PSo18UITraitEnvironment", "frame"]
+- !private ["PSo18UITraitEnvironment", "removeFromSuperview"]
+- !private ["PSo18UITraitEnvironment", "sheetCollectionView"]
+- !private ["PSo18UITraitEnvironment", "view"]
+- !private ["CSo6UIView", "addSubview"]
+- !private ["CSo6UIView", "alpha"]
+- !private ["CSo6UIView", "animateWithDuration"]
+- !private ["CSo6UIView", "bounds"]
+- !private ["CSo6UIView", "frame"]
+- !private ["CSo6UIView", "removeFromSuperview"]
+- !private ["VSC22UIViewAnimationOptions", "CurveEaseIn"]
+- !private ["VSC22UIViewAnimationOptions", "CurveEaseOut"]
+- !private ["CSo16UIViewController", "backgroundView"]
+- !private ["CSo16UIViewController", "sheetCollectionView"]
+- !private ["CSo16UIViewController", "view"]
+- !private ["PSo37UIViewControllerAnimatedTransitioning", "UIView"]
+- !private ["PSo37UIViewControllerAnimatedTransitioning", "animateDismissal"]
+- !private ["PSo37UIViewControllerAnimatedTransitioning", "animatePresentation"]
+- ["PSo37UIViewControllerAnimatedTransitioning", "animateTransition"]
+- ["PSo37UIViewControllerAnimatedTransitioning", "animationEnded"]
+- !private ["PSo37UIViewControllerAnimatedTransitioning", "imagePickerSheetController"]
+- !private ["PSo37UIViewControllerAnimatedTransitioning", "presenting"]
+- ["PSo37UIViewControllerAnimatedTransitioning", "transitionDuration"]
+- ["PSo37UIViewControllerAnimatedTransitioning", ""]
+- !private ["PSo36UIViewControllerContextTransitioning", "completeTransition"]
+- !private ["PSo36UIViewControllerContextTransitioning", "containerView"]
+- !private ["PSo37UIViewControllerTransitioningDelegate", "backgroundView"]
+- !private ["PSo37UIViewControllerTransitioningDelegate", "sheetCollectionView"]
+- !private ["PSo37UIViewControllerTransitioningDelegate", "view"]
+- !private ["Ps33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps12_Reflectable", "Some"]
+- !private ["Ps12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["Ps12_Reflectable", "addSubview"]
+- !private ["Ps12_Reflectable", "alpha"]
+- !private ["Ps12_Reflectable", "animateWithDuration"]
+- !private ["Ps12_Reflectable", "bounds"]
+- !private ["Ps12_Reflectable", "frame"]
+- !private ["Ps12_Reflectable", "maxY"]
+- !private ["Ps12_Reflectable", "origin"]
+- !private ["Ps12_Reflectable", "removeFromSuperview"]
+- !private ["Ps12_Reflectable", "y"]
+depends-nominal:
+- "C26ImagePickerSheetController19AnimationController"
+- "Ps9AnyObject"
+- !private "Ps23ArrayLiteralConvertible"
+- !private "Sb"
+- !private "Ps25BooleanLiteralConvertible"
+- !private "Ps11BooleanType"
+- !private "V12CoreGraphics7CGFloat"
+- !private "VSC7CGPoint"
+- !private "VSC6CGRect"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- !private "C26ImagePickerSheetController26ImagePickerSheetController"
+- !private "PSo8NSCoding"
+- !private "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "Ps21NilLiteralConvertible"
+- !private "Ps13OptionSetType"
+- !private "Sq"
+- !private "Ps16RawRepresentable"
+- !private "Ps14SetAlgebraType"
+- !private "Vs12StaticString"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- !private "PSo21UIAppearanceContainer"
+- !private "CSo16UICollectionView"
+- !private "PSo26UICollectionViewDataSource"
+- !private "PSo24UICollectionViewDelegate"
+- !private "PSo34UICollectionViewDelegateFlowLayout"
+- !private "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- !private "PSo18UIFocusEnvironment"
+- !private "CSo11UIResponder"
+- !private "CSo12UIScrollView"
+- !private "PSo20UIScrollViewDelegate"
+- !private "PSo16UIStateRestoring"
+- !private "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- !private "VSC22UIViewAnimationOptions"
+- !private "CSo16UIViewController"
+- "PSo37UIViewControllerAnimatedTransitioning"
+- !private "PSo36UIViewControllerContextTransitioning"
+- !private "PSo37UIViewControllerTransitioningDelegate"
+- !private "Ps33_BuiltinBooleanLiteralConvertible"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/Pods/Target Support Files/ImagePickerSheetController/ImagePickerSheetController-umbrella.h"
+- "/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/DerivedData/ReactNativeCameraKit/Build/Intermediates/Pods.build/Debug-iphoneos/ImagePickerSheetController.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+interface-hash: "01b01077d4eb9b2550c0d993fa5cc4ee"

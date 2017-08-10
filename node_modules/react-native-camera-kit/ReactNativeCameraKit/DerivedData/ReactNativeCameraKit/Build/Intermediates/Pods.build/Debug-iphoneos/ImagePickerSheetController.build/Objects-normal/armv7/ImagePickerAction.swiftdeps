@@ -1,0 +1,148 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ImagePickerActionStyle"
+- "ImagePickerAction"
+- "??"
+provides-nominal:
+- "O26ImagePickerSheetController22ImagePickerActionStyle"
+- "C26ImagePickerSheetController17ImagePickerAction"
+provides-member:
+- ["O26ImagePickerSheetController22ImagePickerActionStyle", ""]
+- ["C26ImagePickerSheetController17ImagePickerAction", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "ImagePickerActionStyle"
+- "String"
+- "??"
+- "=="
+- "Int"
+- !private ">"
+- "ImagePickerAction"
+depends-member:
+- ["Ps9AnyObject", "Title"]
+- !private ["Ps9AnyObject", "handler"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "secondaryHandler"]
+- !private ["Ps9AnyObject", "secondaryTitle"]
+- !private ["Ps9AnyObject", "style"]
+- !private ["Ps9AnyObject", "title"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps22BidirectionalIndexType", "hashValue"]
+- !private ["Ps21BitwiseOperationsType", "hashValue"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps11BooleanType", "_getBuiltinLogicValue"]
+- !private ["Ps11CVarArgType", "hashValue"]
+- !private ["Ps10Comparable", "hashValue"]
+- ["Ps28CustomDebugStringConvertible", "Some"]
+- !private ["Ps28CustomDebugStringConvertible", "map"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "hashValue"]
+- !private ["Ps9Equatable", "Default"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "hashValue"]
+- ["Ps9Equatable", ""]
+- !private ["Ps16ForwardIndexType", "hashValue"]
+- !private ["Ps8Hashable", "Default"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "hashValue"]
+- ["Ps8Hashable", ""]
+- ["C26ImagePickerSheetController17ImagePickerAction", "Handler"]
+- ["C26ImagePickerSheetController17ImagePickerAction", "ImagePickerAction"]
+- ["C26ImagePickerSheetController17ImagePickerAction", "ImagePickerActionStyle"]
+- ["C26ImagePickerSheetController17ImagePickerAction", "Int"]
+- ["C26ImagePickerSheetController17ImagePickerAction", "SecondaryHandler"]
+- ["C26ImagePickerSheetController17ImagePickerAction", "String"]
+- ["C26ImagePickerSheetController17ImagePickerAction", "Title"]
+- ["C26ImagePickerSheetController17ImagePickerAction", "deinit"]
+- ["C26ImagePickerSheetController17ImagePickerAction", "handle"]
+- ["C26ImagePickerSheetController17ImagePickerAction", "handler"]
+- ["C26ImagePickerSheetController17ImagePickerAction", "init"]
+- ["C26ImagePickerSheetController17ImagePickerAction", "secondaryHandler"]
+- ["C26ImagePickerSheetController17ImagePickerAction", "secondaryTitle"]
+- ["C26ImagePickerSheetController17ImagePickerAction", "style"]
+- ["C26ImagePickerSheetController17ImagePickerAction", "title"]
+- ["O26ImagePickerSheetController22ImagePickerActionStyle", "Cancel"]
+- ["O26ImagePickerSheetController22ImagePickerActionStyle", "Default"]
+- ["O26ImagePickerSheetController22ImagePickerActionStyle", "deinit"]
+- ["O26ImagePickerSheetController22ImagePickerActionStyle", "hashValue"]
+- !private ["Si", "hashValue"]
+- !private ["Ps21IntegerArithmeticType", "hashValue"]
+- !private ["Ps25IntegerLiteralConvertible", "hashValue"]
+- !private ["Ps11IntegerType", "hashValue"]
+- !private ["Ps14MirrorPathType", "hashValue"]
+- ["Ps21NilLiteralConvertible", "Some"]
+- !private ["Ps21NilLiteralConvertible", "map"]
+- ["Sq", "Some"]
+- !private ["Sq", "deinit"]
+- !private ["Sq", "map"]
+- !private ["Ps21RandomAccessIndexType", "hashValue"]
+- !private ["Ps17SignedIntegerType", "hashValue"]
+- !private ["Ps16SignedNumberType", "hashValue"]
+- !private ["Ps10Strideable", "hashValue"]
+- !private ["Ps33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps33_BuiltinIntegerLiteralConvertible", "hashValue"]
+- !private ["Ps14_Incrementable", "hashValue"]
+- !private ["Ps22_IntegerArithmeticType", "hashValue"]
+- !private ["Ps12_IntegerType", "hashValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "hashValue"]
+- !private ["Ps22_RandomAccessAmbiguity", "hashValue"]
+- ["Ps12_Reflectable", "Some"]
+- !private ["Ps12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["Ps12_Reflectable", "hashValue"]
+- !private ["Ps12_Reflectable", "map"]
+- !private ["Ps18_SignedIntegerType", "hashValue"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Ps22BidirectionalIndexType"
+- !private "Ps21BitwiseOperationsType"
+- !private "Sb"
+- !private "Ps25BooleanLiteralConvertible"
+- !private "Ps11BooleanType"
+- !private "Ps11CVarArgType"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps16ForwardIndexType"
+- "Ps8Hashable"
+- "C26ImagePickerSheetController17ImagePickerAction"
+- "O26ImagePickerSheetController22ImagePickerActionStyle"
+- !private "Si"
+- !private "Ps21IntegerArithmeticType"
+- !private "Ps25IntegerLiteralConvertible"
+- !private "Ps11IntegerType"
+- !private "Ps14MirrorPathType"
+- "Ps21NilLiteralConvertible"
+- "Sq"
+- !private "Ps21RandomAccessIndexType"
+- !private "Ps17SignedIntegerType"
+- !private "Ps16SignedNumberType"
+- !private "Ps10Strideable"
+- !private "Ps33_BuiltinBooleanLiteralConvertible"
+- !private "Ps33_BuiltinIntegerLiteralConvertible"
+- !private "Ps14_Incrementable"
+- !private "Ps22_IntegerArithmeticType"
+- !private "Ps12_IntegerType"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps22_RandomAccessAmbiguity"
+- "Ps12_Reflectable"
+- !private "Ps18_SignedIntegerType"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/Pods/Target Support Files/ImagePickerSheetController/ImagePickerSheetController-umbrella.h"
+- "/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/DerivedData/ReactNativeCameraKit/Build/Intermediates/Pods.build/Debug-iphoneos/ImagePickerSheetController.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreLocation.swiftmodule"
+interface-hash: "9ff41827be82f5b92b0c1e6f67fe77c8"

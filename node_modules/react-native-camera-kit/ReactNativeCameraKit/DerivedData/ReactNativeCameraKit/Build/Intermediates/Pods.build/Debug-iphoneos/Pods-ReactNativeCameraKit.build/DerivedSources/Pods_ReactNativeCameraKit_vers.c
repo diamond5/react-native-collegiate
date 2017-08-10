@@ -1,0 +1,1 @@
+ const unsigned char Pods_ReactNativeCameraKitVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_ReactNativeCameraKit  PROJECT:Pods-1" "\n"; const double Pods_ReactNativeCameraKitVersionNumber __attribute__ ((used)) = (double)1.;

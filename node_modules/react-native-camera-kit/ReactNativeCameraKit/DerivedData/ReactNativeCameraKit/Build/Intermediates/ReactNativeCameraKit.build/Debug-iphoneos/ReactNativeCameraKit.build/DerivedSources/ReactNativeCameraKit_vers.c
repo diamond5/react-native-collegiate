@@ -1,0 +1,1 @@
+ const unsigned char ReactNativeCameraKitVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:ReactNativeCameraKit  PROJECT:ReactNativeCameraKit-1" "\n"; const double ReactNativeCameraKitVersionNumber __attribute__ ((used)) = (double)1.;

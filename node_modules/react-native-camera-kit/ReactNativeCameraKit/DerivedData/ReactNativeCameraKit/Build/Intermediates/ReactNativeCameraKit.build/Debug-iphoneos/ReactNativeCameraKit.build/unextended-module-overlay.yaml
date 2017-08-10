@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/DerivedData/ReactNativeCameraKit/Build/Products/Debug-iphoneos/ReactNativeCameraKit.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/artald/Documents/WixMobileAppsGit/react-native-camera-kit/ReactNativeCameraKit/DerivedData/ReactNativeCameraKit/Build/Intermediates/ReactNativeCameraKit.build/Debug-iphoneos/ReactNativeCameraKit.build/unextended-module.modulemap',
+    }]
+  }]
+}
